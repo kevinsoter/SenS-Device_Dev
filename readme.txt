@@ -1,6 +1,6 @@
 A Compact Wearable Tendon Vibration Device for Dynamic Modulation of Proprioceptive Feedback
 
-**Status: Developm,ent and validation manuscript in preparation**
+**Status: Development and validation manuscript in preparation**
 
 This repository will host the open-source hardware, firmware, and design files for a wearable device developed to deliver controlled tendon vibration for eliciting the Tonic Vibration Reflex (TVR) and proprioceptive stimulation of muscle spindles. The device was designed to output vibration at defined frequencies and amplitudes suitable for TVR elicitation, and its development and validation are described in an accompanying manuscript currently in preparation.
 
@@ -20,9 +20,10 @@ Further technical detail, methodology, and validation data will be available onc
 The following materials will be added as they are finalized and cleared for release:
 
 - [ ] Paper abstract
-- [ ] Electronics schematics & routing files**
-- [ ] CAD files for the custom enclosure/casing (wearable housing)
-- [ ] Firmware (Arduino IDE, C++) for vibration frequency/amplitude control
+- [x] Electronics schematics & routing files
+- [x] Materials/Components used
+- [x] Firmware (Arduino IDE, C++) for vibration frequency/amplitude Control
+- [x] CAD files for the custom enclosure/casing (wearable housing)
 
 ## Current Status
 
