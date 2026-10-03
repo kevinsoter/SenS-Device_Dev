@@ -17,7 +17,6 @@
 //                  happens shortly before the actual toe-   //
 //                  off. This then sends the offset signal.  //
 //                                                           //
-// Code by Kevin Soter, last updated 15.11.2024              //
 // __________________________________________________________//
 
 #include <Wire.h>

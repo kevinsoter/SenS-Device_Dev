@@ -6,7 +6,7 @@
 // of the vibration. No contact to the PC is needed.         //
 // ~80 Hz at 200 decimal, which equals C8 in hexadecimal     //                             
 //                                                           //
-// Code by Kevin Soter, last updated 14.08.2024              //
+//___________________________________________________________//
 
 #include <Wire.h>
 #include <ArduinoBLE.h>

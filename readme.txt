@@ -39,11 +39,6 @@ The following materials will be added as they are finalized and cleared for rele
 
 Custom stimulation hardware is a common bottleneck for labs studying proprioception, motor control, and vibrotactile feedback. By releasing the full design, electronics, enclosure, and firmware we hope to lower the barrier for other groups to replicate, adapt, or build on this work.
 
-## Contact
-
-Kevin Soter
-University of Milano-Bicoca, Italy
-
 ---
 
 *This README will be updated as the manuscript progresses and files are released. Last updated: [12.07.206].*
