@@ -39,6 +39,23 @@ The following materials will be added as they are finalized and cleared for rele
 
 Custom stimulation hardware is a common bottleneck for labs studying proprioception, motor control, and vibrotactile feedback. By releasing the full design, electronics, enclosure, and firmware we hope to lower the barrier for other groups to replicate, adapt, or build on this work.
 
+
+## Citation
+
+If you use, reproduce, modify, or adapt this wearable tendon vibration device, please cite the original work:
+
+Kevin Soter & Cristiano Alessandro. SenS-Device. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24135994
+
+If you use or adapt the device in a scientific publication, please also cite the associated research article, when available.
+
+Licence
+
+This project is made available under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
+
+You are free to share and adapt the materials in this repository, including for commercial purposes, provided that appropriate credit is given to the original creators, a link to the licence is provided, and any modifications are indicated.
+
+For full licence terms, see: https://creativecommons.org/licenses/by/4.0/
+
 ---
 
-*This README will be updated as the manuscript progresses and files are released. Last updated: [12.07.206].*
+*This README will be updated as the manuscript progresses and files are released. Last updated: [11.11.206].*
